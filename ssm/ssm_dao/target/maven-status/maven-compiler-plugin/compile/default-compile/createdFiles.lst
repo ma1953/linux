@@ -1,0 +1,8 @@
+it\ma\dao\ProductDao.class
+it\ma\dao\PermissionDao.class
+it\ma\dao\SysLogDao.class
+it\ma\dao\RolesDao.class
+it\ma\dao\TravellersDao.class
+it\ma\dao\UserDao.class
+it\ma\dao\MemberDao.class
+it\ma\dao\OrdersDao.class

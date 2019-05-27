@@ -1,0 +1,12 @@
+it\ma\service\ProductService.class
+it\ma\service\UserService.class
+it\ma\service\impl\UserServiceImpl.class
+it\ma\service\SysLogService.class
+it\ma\service\impl\ProductServiceImpl.class
+it\ma\service\OrdersService.class
+it\ma\service\RoleService.class
+it\ma\service\impl\OrdersServicesImpl.class
+it\ma\service\impl\PermissionServiceImpl.class
+it\ma\service\impl\RoleServiceImpl.class
+it\ma\service\PermissionService.class
+it\ma\service\impl\SysLogServiceImpl.class

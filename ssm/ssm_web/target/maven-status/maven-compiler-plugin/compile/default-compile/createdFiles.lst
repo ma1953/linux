@@ -1,0 +1,7 @@
+it\ma\controller\OrdersController.class
+it\ma\controller\RoleController.class
+it\ma\controller\sysLogController.class
+it\ma\controller\PermissionController.class
+it\ma\controller\ProductController.class
+it\ma\controller\LogAop.class
+it\ma\controller\UserController.class
